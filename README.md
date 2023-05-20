@@ -1,16 +1,33 @@
-# uts_fajar
+# UTS MOBILE FLUTTER (Login & Register)
 
-A new Flutter project.
+**_Nama: Fajar Agung Nugroho_** <br/>
+**_Nim : 312010488_** <br/>
+**_Kelas : TI.20.A3_** <br/>
 
-## Getting Started
+<br>
 
-This project is a starting point for a Flutter application.
+## Introduction
 
-A few resources to get you started if this is your first Flutter project:
+Login Page dalam Flutter untuk membuat antarmuka pengguna yang memungkinkan pengguna untuk memasukkan informasi pengguna mereka, seperti nama pengguna dan kata sandi, untuk mengakses aplikasi atau platform yang terkait.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<br>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+
+- Login
+- Register
+- Forgot Password
+
+<br>
+
+## Screenshots
+
+<br>
+
+### UI Design Figma
+
+<div align="center">
+  <img src="./assets/ss/login.png" alt="login" width="1000">
+  <img src="./assets/ss/register.png" alt="regist" width="1000">
+  <img src="./assets/ss/forgot.png" alt="UI Design Figma" width="1000">
+</div>
