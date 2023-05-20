@@ -27,7 +27,7 @@ Login Page dalam Flutter untuk membuat antarmuka pengguna yang memungkinkan peng
 ### UI Design Figma
 
 <div align="center">
-  <img src="./assets/ss/login.png" alt="login" width="1000">
-  <img src="./assets/ss/register.png" alt="regist" width="1000">
-  <img src="./assets/ss/forgot.png" alt="UI Design Figma" width="1000">
+  <img src="./assets/ss/login.png" alt="login" >
+  <img src="./assets/ss/register.png" alt="regist" >
+  <img src="./assets/ss/forgot.png" alt="UI Design Figma" >
 </div>
